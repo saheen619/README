@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left">Hi 👋, I'm Saheen Ahzan</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheen619&label=Profile%20views&color=0e75b6&style=flat" alt="saheen619" /> </p>
+<h1 align="left">Hi 👋, I'm Saheen Ahzan <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheen619&label=Profile%20views&color=0e75b6&style=flat" alt="saheen619" /> </p></h1> 
 <h3 align="left">A self taught Data Engineer</h3>
 <img align="right" alt="coding " width="400" src="https://github.com/saheen619/saheen619/blob/main/giphy.gif?raw=true">
 
