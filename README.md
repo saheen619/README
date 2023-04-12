@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheen619&label=Profile%20views&color=0e75b6&style=flat" alt="saheen619" /> </p>
 
 
-<img align="right" alt="coding " width="500" src="https://github.com/saheen619/saheen619/blob/main/giphy.gif?raw=true">
+<img align="right" alt="coding " width="300" src="https://github.com/saheen619/saheen619/blob/main/giphy.gif?raw=true">
 
 - 🌱 I’m currently learning **AWS**
 
