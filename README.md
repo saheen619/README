@@ -61,4 +61,4 @@ Email    : **saheen619.klm@gmail.com**
 <br />
 <br />
 
-<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=saheen619&show_icons=true&locale=en" alt="saheen619" /><img align="left" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=saheen619&" alt="saheen619" /></p> 
+<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=saheen619&show_icons=true&locale=en" alt="saheen619" /><img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=saheen619&" alt="saheen619" /></p> 
