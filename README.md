@@ -31,8 +31,8 @@
 <br />
 <br />
 
-<p><img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=saheen619&show_icons=true&locale=en&layout=compact" alt="saheen619" /></p>
-<h3 align="left">Languages:</h3>
+<p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=saheen619&show_icons=true&locale=en&layout=compact" alt="saheen619" /></p>
+<h3 align="left">Languages:</h3> 
 <p align="left"> 
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Python-logo-notext.svg.png?raw=true" alt="Python" width="40" height="40"/> </a> &nbsp;
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/SQL1.png?raw=true" alt="SQL" width="40" height="40"/> </a> &nbsp;
@@ -44,10 +44,10 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1920px-Hadoop_logo_new.svg.png?raw=true" alt="Hadoop" width="140" height="40"/> </a> &nbsp;
-   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1024px-Apache_Hive_logo.svg.png?raw=true" alt="Hive" width="50" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_HBase_Logo.svg.png?raw=true" alt="HBASE" width="140" height="40"/> </a> &nbsp; 
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1280px-Cassandra_logo.svg.png?raw=true" alt="CASSANDRA" width="60" height="40"/> </a> &nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_kafka.svg.png?raw=true" alt="KAFKA" width="30" height="40"/> </a> &nbsp;
+   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1024px-Apache_Hive_logo.svg.png?raw=true" alt="Hive" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_HBase_Logo.svg.png?raw=true" alt="HBASE" width="140" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1280px-Cassandra_logo.svg.png?raw=true" alt="CASSANDRA" width="60" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_kafka_wordtype.svg.png?raw=true" alt="KAFKA" width="80" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="130" height="45"/> </a> &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> &nbsp;
