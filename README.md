@@ -27,7 +27,8 @@
 <p align="left">
 <a href="mailto:saheen619.klm@gmail.com" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/icons/Gmail_icon_(2020).svg.png?raw=true" alt="mailto:saheen619.klm@gmail.com" height="25" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saheenahzan/" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/icons/LinkedIn_icon.svg.png?raw=true" alt="https://www.linkedin.com/in/saheenahzan/" height="35" width="35" /></a>
-<a href="https://stackoverflow.com/users/20288264/saheen-ahzan" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/768px-Stack_Overflow_icon.svg.png?raw=true" alt="https://stackoverflow.com/users/20288264/saheen-ahzan" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/20288264/saheen-ahzan" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/768px-Stack_Overflow_icon.svg.png?raw=true" alt="https://stackoverflow.com/users/20288264/saheen-ahzan" height="40" width="45" /></a>
+<a href="https://twitter.com/saheen619" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/icons/Logo_of_Twitter,_Inc..svg.png?raw=true" alt="https://twitter.com/saheen619" height="30" width="35" /></a>
 
 <br />
 <br />
