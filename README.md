@@ -1,11 +1,3 @@
-<!--
-
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> &nbsp;
-&nbsp;
-<br />
-
--->
-
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
 <img align="right" alt="coding " width="370" src="https://github.com/saheen619/saheen619/blob/main/giphy.gif?raw=true">
@@ -36,6 +28,7 @@
 <p align="left"> 
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Python-logo-notext.svg.png?raw=true" alt="Python" width="40" height="40"/> </a> &nbsp;
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/SQL1.png?raw=true" alt="SQL" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Gnu-bash-logo.svg.png?raw=true" alt="BASH" width="100" height="40"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 </p>
 
