@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=saheen619&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="saheen619" /></p>
+<p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=saheen619&show_icons=true&locale=en&layout=compact&hide_progress=false" alt="saheen619" /></p>
 <h3 align="left">Languages:</h3> 
 <p align="left"> 
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Python-logo-notext.svg.png?raw=true" alt="Python" width="40" height="40"/> </a> &nbsp;
