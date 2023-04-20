@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheen619&layout=compact&theme=dark&langs_count=6&hide_border=True" /></p>
+<p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheen619&layout=compact&theme=dark&langs_count=6&hide_border=True&bg_color=ffffff00" /></p>
 <h3 align="left">Languages:</h3> 
 <p align="left"> 
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Python-logo-notext.svg.png?raw=true" alt="Python" width="40" height="40"/> </a> &nbsp;
@@ -49,5 +49,5 @@
 <br />
 <br />
 
-<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=saheen619&show_icons=true&theme=dark&hide_border=True&icon_color=FFA500" />
-<img align="right" width="410" src="https://streak-stats.demolab.com/?user=saheen619&theme=dark&border=transparent" /></p> 
+<p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=saheen619&show_icons=true&theme=dark&hide_border=True&icon_color=FFA500&bg_color=ffffff00" />
+<img align="right" width="410" src="https://streak-stats.demolab.com/?user=saheen619&theme=dark&border=transparent&background=transparent" /></p> 
