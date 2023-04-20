@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
-<img align="right" alt="coding " width="370" src="https://github.com/saheen619/saheen619/blob/main/giphy.gif?raw=true">
+<img align="right" alt="coding " width="370" src="https://github.com/saheen619/saheen619/blob/main/icons/programmer-01UPDATED.png?raw=true">
 <h3 align="left">A self taught Aspiring Data Engineer.</h3>
 
 - 🔭 I’m currently working on **intermediate and advanced python skills.**
@@ -39,13 +39,11 @@
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1920px-Hadoop_logo_new.svg.png?raw=true" alt="Hadoop" width="140" height="40"/> </a> &nbsp;
    <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1024px-Apache_Hive_logo.svg.png?raw=true" alt="Hive" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_HBase_Logo2-01.png?raw=true" alt="HBASE" width="140" height="40"/> </a> &nbsp; &nbsp;
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/1280px-Cassandra_logo.svg.png?raw=true" alt="CASSANDRA" width="60" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/CassandraUPDATED-01.png?raw=true" alt="CASSANDRA" width="60" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/Apache_kafka_Updated-01.png?raw=true" alt="KAFKA" width="80" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/icons/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="140" height="45"/> </a> &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> &nbsp;
-  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p> &nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> &nbsp; 
+    &nbsp;
 
 <br />
 <br />
