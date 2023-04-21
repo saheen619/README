@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on **intermediate and advanced python skills.**
 - 🌱 I’m currently learning **to implement ETL in the cloud.**
 - 👯 I’m looking to **collaborate on ETL Pipeline projects.**
-- 🤔 I might be looking for **help with Advanced Python Topics.**
+- 🤔 I might be looking for **DE mentors.**
 - 💬 Ask me about **SQL and Snowflake.**
-- ⚡ Fun fact: **Well, I'm of retail background, switchting to the Data Domain.**
 - 📫 Reach me on: **saheen619.klm@gmail.com**
   
 <br />
