@@ -23,8 +23,6 @@
 
 <br />
 <br />
-
----
   
 <p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheen619&layout=compact&theme=dark&langs_count=6&hide_border=True&bg_color=ffffff00" /></p>
 <h3 align="left">Languages:</h3> 
@@ -36,8 +34,6 @@
 </p>
 
 <br />
-
----
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
