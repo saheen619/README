@@ -12,6 +12,8 @@
   
 <br />
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:saheen619.klm@gmail.com" target="blank"><img align="center" src="https://github.com/saheen619/saheen619/blob/main/icons/Gmail_icon_(2020).svg.png?raw=true" alt="mailto:saheen619.klm@gmail.com" height="25" width="30" /></a>&nbsp;&nbsp;
@@ -22,6 +24,8 @@
 <br />
 <br />
 
+---
+  
 <p><img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheen619&layout=compact&theme=dark&langs_count=6&hide_border=True&bg_color=ffffff00" /></p>
 <h3 align="left">Languages:</h3> 
 <p align="left"> 
@@ -32,6 +36,8 @@
 </p>
 
 <br />
+
+---
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -47,6 +53,8 @@
 <br />
 <br />
 <br />
+    
+---
 
 <p><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=saheen619&show_icons=true&theme=dark&hide_border=True&icon_color=FFA500&bg_color=ffffff00" />
 <img align="right" width="410" src="https://streak-stats.demolab.com/?user=saheen619&theme=dark&border=transparent&background=transparent" /></p> 
