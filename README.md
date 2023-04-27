@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
-<img align="right" alt="coding " width="370" src="https://github.com/saheen619/saheen619/blob/main/icons/programmer-01UPDATED.png?raw=true">
+<img align="right" alt="coding" width="500"  src="https://github.com/saheen619/saheen619/blob/main/icons/TSQLGIF_Cropped.gif?raw=true">
 <h3 align="left">A self taught Aspiring Data Engineer.</h3>
 
 - 🔭 I’m currently working on **intermediate and advanced python skills.**
