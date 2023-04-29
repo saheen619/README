@@ -1,15 +1,10 @@
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
-<img align="right" alt="coding" width="500"  src="https://github.com/saheen619/saheen619/blob/main/Banner/TSQLGIF_Cropped.gif?raw=true">
-<h3 align="left">A self taught Aspiring Data Engineer.</h3>
+<img align="right" alt="coding" width="400"  src="https://github.com/saheen619/saheen619/blob/main/Banner/TSQLGIF_Cropped.gif?raw=true">
+<h3 align="left">A self taught aspiring Data Engineer.</h3>
 
-- 🔭 I’m currently working on **intermediate and advanced python skills.**
-- 🌱 I’m currently learning **to implement ETL in the cloud.**
-- 👯 I’m looking to **collaborate on ETL Pipeline projects.**
-- 🤔 I might be looking for **DE mentors.**
-- 💬 Ask me about **SQL and Snowflake.**
-- 📫 Reach me on: **saheen619.klm@gmail.com**
-  
+Currently on a professional development break, with a serious love for all things tech, and on a mission to become a successful data engineer. <br> <br>
+I'm learning the ropes when it comes to technical skills, but a quick learner with high motivation to grow. Right now, focused on mastering programming in python, data modeling, SQL, big data technologies and the cloud. <br> <br> I'm working on ETL/ELT projects to gain hands-on experience and practical skills. I'm also looking for data engineer mentors or teammates to collaborate with.
 <br />
 
 ---
