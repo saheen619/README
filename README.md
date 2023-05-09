@@ -38,8 +38,6 @@ I'm learning the ropes when it comes to technical skills, but a quick learner wi
   <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/CassandraUPDATED-01.png?raw=true" alt="CASSANDRA" width="60" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_kafka_Updated-01.png?raw=true" alt="KAFKA" width="80" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="140" height="45"/> </a> &nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> &nbsp; 
-    &nbsp;
 
 <br />
 <br />
