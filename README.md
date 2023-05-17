@@ -39,7 +39,6 @@ I'm learning the ropes when it comes to technical skills, but a quick learner wi
   <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_HBase_Logo2-01.png?raw=true" alt="HBASE" width="140" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Cassandra-01.png?raw=true" alt="CASSANDRA" width="180" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/MongoDBLogo-01.png?raw=true" alt="MONGODB" width="155" height="45"/> </a> &nbsp;
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/MySQLlogo-01.png?raw=true" alt="MYSQL" width="135" height="40"/> </a> &nbsp;
     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="145" height="45"/> </a> &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_kafka_Updated-01.png?raw=true" alt="KAFKA" width="110" height="40"/> </a> &nbsp;&nbsp;
