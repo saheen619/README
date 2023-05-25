@@ -33,8 +33,8 @@ I'm learning the ropes when it comes to technical skills, but a quick learner wi
 <h3 align="left">Tools:</h3>
 <p align="left"> 
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/1920px-Hadoop_logo_new.svg.png?raw=true" alt="Hadoop" width="140" height="40"/> </a> &nbsp;
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/ApacheSparklogo-01.png?raw=true" alt="SPARK" width="80" height="40"/> </a> &nbsp;&nbsp;
-   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/1024px-Apache_Hive_logo.svg.png?raw=true" alt="Hive" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/ApacheSparklogo-01.png?raw=true" alt="SPARK" width="100" height="50"/> </a> &nbsp;&nbsp;
+   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/1024px-Apache_Hive_logo.svg.png?raw=true" alt="Hive" width="60" height="45"/> </a> &nbsp;&nbsp;&nbsp;
    <a href="https://sqoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_Sqoop_logo.svg.png?raw=true" alt="SQOOP" width="125" height="30"/> </a> &nbsp;&nbsp;
   <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_HBase_Logo2-01.png?raw=true" alt="HBASE" width="140" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Cassandra-01.png?raw=true" alt="CASSANDRA" width="180" height="40"/> </a> &nbsp;&nbsp;
@@ -43,6 +43,7 @@ I'm learning the ropes when it comes to technical skills, but a quick learner wi
     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="145" height="45"/> </a> &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_kafka_Updated-01.png?raw=true" alt="KAFKA" width="110" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/AirflowLogo-01.png?raw=true" alt="AIRFLOW" width="110" height="45"/> </a> &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Docker_logo.svg.png?raw=true" alt="DOCKER" width="160" height="40"/> </a> &nbsp;&nbsp;
   <a href="http://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/AWS-01.png?raw=true" alt="AWS" width="70" height="40"/> </a> &nbsp;&nbsp;
 
 
