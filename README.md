@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
 <img align="right" alt="coding" width="400"  src="https://github.com/saheen619/saheen619/blob/main/Banner/TSQLGIF_Cropped.gif?raw=true">
-<h3 align="left">A self taught aspiring Data Engineer.</h3>
+<h3 align="left">A self taught Data Engineer.</h3>
 
 Currently on a professional development break, with a serious love for all things tech, and on a mission to become a successful data engineer. <br> <br>
 I'm learning the ropes when it comes to technical skills, but a quick learner with high motivation to grow. Right now, focused on mastering programming in python, data modeling, SQL, big data technologies and the cloud. <br> <br> I'm working on ETL/ELT projects to gain hands-on experience and practical skills. I'm also looking for data engineer mentors or teammates to collaborate with.
@@ -43,7 +43,7 @@ I'm learning the ropes when it comes to technical skills, but a quick learner wi
     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/snowflake_logoUPDATED-01.png?raw=true" alt="SNOWFLAKE" width="145" height="45"/> </a> &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Apache_kafka_Updated-01-01.png?raw=true" alt="KAFKA" width="110" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/AirflowLogo-01.png?raw=true" alt="AIRFLOW" width="110" height="45"/> </a> &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Docker_logo.svg.png?raw=true" alt="DOCKER" width="150" height="38"/> </a> &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/Docker_logo.svg.png?raw=true" alt="DOCKER" width="130" height="36"/> </a> &nbsp;&nbsp;
   <a href="http://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/saheen619/saheen619/blob/main/Icons%20and%20Logos/AWS-01.png?raw=true" alt="AWS" width="50" height="30"/> </a> &nbsp;&nbsp;
 
 
