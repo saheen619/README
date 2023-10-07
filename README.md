@@ -1,11 +1,11 @@
 <h1 align="left">Hi there, I'm Saheen Ahzan </h1>
 
 <img align="right" alt="coding" width="400"  src="https://github.com/saheen619/saheen619/blob/main/Banner/TSQLGIF_Cropped.gif?raw=true">
-<h3 align="left">A self taught Data Engineer.</h3>
+<h3 align="left">A self taught BI Analyst & wannabe Data Engineer.</h3>
 
-Currently on a professional development break, with a serious love for all things tech, and on a mission to become a successful data engineer. <br> <br>
-I'm learning the ropes when it comes to technical skills, but a quick learner with high motivation to grow. Right now, focused on mastering programming in python, data modeling, SQL, big data technologies and the cloud. <br> <br> I'm working on ETL/ELT projects to gain hands-on experience and practical skills. I'm also looking for data engineer mentors or teammates to collaborate with.
-<br />
+currently working on a project as part of an internship at iNeuron.ai, with a serious love for all things tech, and on a mission to be a successful BI Analyst. 
+<br> <br> 
+I'm learning the ropes when it comes to technical skills, but I'm a quick learner with high motivation to grow. In my spare time, I focus on mastering data modelling/ warehousing, big data technologies for data engineering and also related services on the cloud. I'm working on ETL/ELT projects to gain hands-on experience and practical skills. I'm also looking for mentors and active doers to collaborate with. <br />
 
 ---
 
